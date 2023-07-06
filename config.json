@@ -3,6 +3,7 @@
   "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "Views"
+    "Views",
+    "Views-Action"
   ]
 }
