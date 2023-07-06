@@ -1,12 +1,12 @@
 ## [🔙 Views](https://github.com/Mohamed3nan/Views)
-| [**Week →**](https://github.com/Mohamed3nan/Views/blob/master/readme/663241116/week.md) | [**Month →**](https://github.com/Mohamed3nan/Views/blob/master/readme/663241116/month.md) | [**Year →**](https://github.com/Mohamed3nan/Views/blob/master/readme/663241116/year.md) |
+| [**Week →**](https://github.com/Mohamed3nan/Views/blob/master/readme/663241283/week.md) | [**Month →**](https://github.com/Mohamed3nan/Views/blob/master/readme/663241283/month.md) | [**Year →**](https://github.com/Mohamed3nan/Views/blob/master/readme/663241283/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [Views](https://github.com/Mohamed3nan/Views)
-![Image of Views](https://github.com/Mohamed3nan/Views/blob/master/graph/663241116/large/week.png)
+### :octocat: [Views-Action](https://github.com/Mohamed3nan/Views-Action)
+![Image of Views](https://github.com/Mohamed3nan/Views/blob/master/graph/663241283/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
-	<h2>:calendar: Week Page Views Table</h2>
+	<h2>:calendar: Year Page Views Table</h2>
 <table>
 	<tr>
 		<th>
@@ -21,61 +21,6 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2023/7/6</code>
-		</td>
-		<td>
-			<code>1</code>
-		</td>
-		<td>
-			<code>27</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/7/5</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/7/4</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/7/3</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/7/2</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<code>2023/7/1</code>
 		</td>
 		<td>
@@ -87,7 +32,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2023/6/30</code>
+			<code>2023/6/1</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -98,7 +43,117 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2023/6/29</code>
+			<code>2023/5/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/4/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/3/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/2/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/11/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/10/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/9/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/8/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/7/1</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -114,14 +169,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Views](https://github.com/Mohamed3nan/Views/blob/master/svg/663241116/badge.svg)](https://github.com/Mohamed3nan/Views/blob/master/readme/663241116/week.md)
+[![Image of Views](https://github.com/Mohamed3nan/Views/blob/master/svg/663241283/badge.svg)](https://github.com/Mohamed3nan/Views/blob/master/readme/663241283/week.md)
 ```readme
-[![Image of Views](https://github.com/Mohamed3nan/Views/blob/master/svg/663241116/badge.svg)](https://github.com/Mohamed3nan/Views/blob/master/readme/663241116/week.md)
+[![Image of Views](https://github.com/Mohamed3nan/Views/blob/master/svg/663241283/badge.svg)](https://github.com/Mohamed3nan/Views/blob/master/readme/663241283/week.md)
 ```
 ### Header
-# Views [<img alt="Image of Views" src="https://github.com/Mohamed3nan/Views/blob/master/graph/663241116/small/week.png" height="20">](https://github.com/Mohamed3nan/Views/blob/master/readme/663241116/week.md)
+# Views-Action [<img alt="Image of Views" src="https://github.com/Mohamed3nan/Views/blob/master/graph/663241283/small/week.png" height="20">](https://github.com/Mohamed3nan/Views/blob/master/readme/663241283/week.md)
 ```readme
-# Views [<img alt="Image of Views" src="https://github.com/Mohamed3nan/Views/blob/master/graph/663241116/small/week.png" height="20">](https://github.com/Mohamed3nan/Views/blob/master/readme/663241116/week.md)
+# Views-Action [<img alt="Image of Views" src="https://github.com/Mohamed3nan/Views/blob/master/graph/663241283/small/week.png" height="20">](https://github.com/Mohamed3nan/Views/blob/master/readme/663241283/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
