@@ -1,18 +1,18 @@
 name: Auto Approve
 
-on: pull_request_target
+on: pull_request
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Auto Approve
+    - name: auto-approve
       uses: hmarr/auto-approve-action@v2.0.0
       if: github.actor == 'imgbot[bot]'
       with:
         github-token: "${{ secrets.GIT_MERGE_TOKEN }}"
-    - name: Merge
-      uses: squalrus/merge-bot@v0.2.0
+    - name: PR Merge Bot
+      uses: squalrus/merge-bot@v0.4.5
       if: github.actor == 'imgbot[bot]'
       with:
         GITHUB_TOKEN: ${{ secrets.GIT_MERGE_TOKEN }}
