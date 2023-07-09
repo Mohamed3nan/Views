@@ -1,20 +1,12 @@
-name: Auto Approve
+name: Auto approve
 
 on: pull_request_target
 
 jobs:
-  build:
+  auto-approve:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
+    if: github.actor == 'dependabot[bot]'
     steps:
-    - name: auto-approve
-      uses: hmarr/auto-approve-action@v3
-      with:
-        review-message: "Auto approved automated PR"
-    - name: PR Merge Bot
-      uses: squalrus/merge-bot@v0.4.5
-      if: github.actor == 'imgbot[bot]'
-      with:
-        GITHUB_TOKEN: ${{ secrets.GIT_MERGE_TOKEN }}
-        method: squash
+      - uses: hmarr/auto-approve-action@v3
