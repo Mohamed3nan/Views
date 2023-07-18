@@ -21,28 +21,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Mohamed3nan/Views/tree/master/readme/660776284/week.md">
-				Mohamed3nan.github.io
-			</a>
-		</td>
-		<td>
-			2023/7/15 12:00 AM UTC
-		</td>
-		<td>
-			22
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/660776284/small/week.png" height="20"> 984
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Mohamed3nan/Views/tree/master/readme/660369026/week.md">
 				Mohamed3nan
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:16 AM UTC
+			2023/7/16 12:19 AM UTC
 		</td>
 		<td>
 			6
@@ -58,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:00 AM UTC
+			2023/7/16 12:00 AM UTC
 		</td>
 		<td>
-			105
+			107
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/645085674/small/week.png" height="20"> 686
+			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/645085674/small/week.png" height="20"> 688
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:00 AM UTC
+			2023/7/16 12:00 AM UTC
 		</td>
 		<td>
-			58
+			60
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/373696447/small/week.png" height="20"> 214
+			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/373696447/small/week.png" height="20"> 216
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:00 AM UTC
+			2023/7/16 12:20 AM UTC
 		</td>
 		<td>
 			1
@@ -106,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:00 AM UTC
+			2023/7/16 12:21 AM UTC
 		</td>
 		<td>
 			20
@@ -122,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:00 AM UTC
+			2023/7/16 12:00 AM UTC
 		</td>
 		<td>
-			11
+			12
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/663241116/small/week.png" height="20"> 528
+			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/663241116/small/week.png" height="20"> 529
 		</td>
 	</tr>
 	<tr>
@@ -138,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:20 AM UTC
+			2023/7/16 12:22 AM UTC
 		</td>
 		<td>
 			2
@@ -154,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:20 AM UTC
+			2023/7/16 12:22 AM UTC
 		</td>
 		<td>
 			0
@@ -170,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:21 AM UTC
+			2023/7/16 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/511187280/small/week.png" height="20"> 6
+			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/511187280/small/week.png" height="20"> 7
 		</td>
 	</tr>
 	<tr>
@@ -186,18 +170,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/15 12:21 AM UTC
+			2023/7/16 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/468873221/small/week.png" height="20"> 9
+			<img alt="Response time graph" src="https://github.com/Mohamed3nan/Views/raw/master/graph/468873221/small/week.png" height="20"> 10
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/7/17 4:09 PM UTC</i></small>
+<small><i>Last updated on 2023/7/18 12:32 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
